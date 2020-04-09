@@ -1,0 +1,14 @@
+function output = common_movies(actors,person1,person2)
+
+output = [];
+
+for ii = 1:length(actors)
+    for jj = 1:length(actors)
+        if actors(ii,2) == person1 && actors(jj,2) == person2
+            if actors(ii,1) == actors(jj,1)
+                output(end + 1) = actors(ii,1);
+            end
+        end
+    end
+end
+end
