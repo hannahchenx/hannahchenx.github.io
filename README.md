@@ -11,4 +11,4 @@ We created an interactive 3D model of OTTO, hosted by Onshape, to make it easy t
 
 OTTO uses custom firmware to feed G-code into an Arduino Due, which controls the step and direction of stepper motors that drive the machine. All of these components work in tandem to form a robust, accurate, and reliable automated liquid handling system for generating reproducible data at an affordable price point.
 
-The necessary components of our design, including materials and set-up instructions, are all separated and detailed in the Mechanical, Electrical, and Software descriptions. All files are linked in each section, and can also be found in the GitHub repository: https://drd-flo.github.io/OTTO/.
+The necessary components of our design, including materials and set-up instructions, are all separated and detailed in the Mechanical <a href="mechanical.md">, Electrical, and Software descriptions. All files are linked in each section, and can also be found in the GitHub repository: https://drd-flo.github.io/OTTO/.
