@@ -1,4 +1,4 @@
-### Mechanical Systems
+# Mechanical Systems
 
 This interactive model provides all of the parts required for this build, including their part numbers, quantities, and CAD models:
 
