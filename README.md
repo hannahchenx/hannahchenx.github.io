@@ -7,9 +7,9 @@ OTTO is an open-source liquid handler that can automatically prepare samples for
 
 We created an interactive 3D model of OTTO, hosted by Onshape, to make it easy to see how all of the mechanical components fit together physically: 
 
-<iframe src="https://myhub.autodesk360.com/ue2df3503/shares/public/SH56a43QTfd62c1cd96832754d64d89c2831?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 <iframe src="https://myhub.autodesk360.com/ue29183a6/shares/public/SH7f1edQT22b515c761e2c8d8d3b6a07c5ab?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://myhub.autodesk360.com/ue2df3503/shares/public/SH56a43QTfd62c1cd96832754d64d89c2831?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 OTTO uses custom firmware to feed G-code into an Arduino Due, which controls the step and direction of stepper motors that drive the machine. All of these components work in tandem to form a robust, accurate, and reliable automated liquid handling system for generating reproducible data at an affordable price point.
 
