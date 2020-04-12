@@ -1,4 +1,4 @@
-<h1>OTTO</h1>
+# OTTO
 ## The automated micropipette
 
 OTTO is an open-source liquid handler that can automatically prepare samples for qPCR, flow cytometry, and other biological assays that rely on accurate liquid dispensing. It features designs that optimize speed and accuracy, unattended automation, and modular components, all with easily sourceable or 3D-printed parts. In total, OTTO only costs approximately $1000 and works with most commercially available micropipettes and plastic labware, so you can use materials you already own.
@@ -12,3 +12,6 @@ We created an interactive 3D model of OTTO, hosted by Onshape, to make it easy t
 OTTO uses custom firmware to feed G-code into an Arduino Due, which controls the step and direction of stepper motors that drive the machine. All of these components work in tandem to form a robust, accurate, and reliable automated liquid handling system for generating reproducible data at an affordable price point.
 
 The necessary components of our design, including materials and set-up instructions, are all separated and detailed in the <a href="mechanical.md">Mechanical</a>, <a href="electrical.md">Electrical</a>, and <a href="software.md">Software</a> descriptions. All files are linked in each section, and can also be found in the GitHub repository: https://drd-flo.github.io/OTTO/.
+
+### License
+OTTO is distributed under the [MIT License](https://github.com/pachterlab/poseidon/blob/release/LICENSE)
