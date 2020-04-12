@@ -1,2 +1,1 @@
-<img src="downloads/wiring diagram.jpg">
-
+![](wiring diagram.jpg)
