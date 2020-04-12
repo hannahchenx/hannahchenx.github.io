@@ -6,7 +6,7 @@ A 32-bit Arduino Due receives high-level input from a computer via USB serial co
 
 ## Limit Switches
 Mechanical limit switches are at the maxima of each axis to establish a repeatable coordinate system and allow for a common home position to be found.
-![](https://raw.githubusercontent.com/hannahchenx/hannahchenx.github.io/master/Figure%101C.png)
+![](https://raw.githubusercontent.com/hannahchenx/hannahchenx.github.io/master/Figure%201C.png)
 
 ## Pipette Tip Sensors
 Two Balluff through-beam sensors are attached to the bottom of the work envelope to check the concentricity of the micropipette’s tip holder compared to its barrell and to detect the presence of pipette tips.
