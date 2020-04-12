@@ -63,4 +63,18 @@ Two Balluff through-beam sensors are attached to the bottom of the work envelope
 A 350W 24V regulated DC power supply powers the motors, limit switches, and through-beam sensors. The 24V output signals of the limit switches and through-beam sensors are converted to the Arduino Due’s 3.3V logic level through optocouplers. 
 ![](https://raw.githubusercontent.com/hannahchenx/hannahchenx.github.io/master/wiring%20diagram.jpg)
 
+# Software 
+
+## Script
+The Python script was created using a Python 3 application that features a Tkinter graphical user interface (GUI). The script is available here. 
+[Image of an example of the user interface]
+
+## Arduino
+Upload the custom firmware, available here, to the Arduino Due. Connect it to a USB port on a computer, then place the jumpers on the appropriate locations on the Arduino and connect them to the motors on the other end.
+[image or flow chart of how everything should be connected]
+
+## Running the program
+[Instructions?]
+
+
 
