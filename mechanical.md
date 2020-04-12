@@ -6,7 +6,7 @@ This interactive model provides all of the parts required for this build, includ
 
 ## Work Envelope
 OpenBuilds’ open-source linear rails were used as both the linear motion rails and the frame for the system. Specifically, V-rails were chosen because of their ability to easily connect to form the work envelope. The work envelope contains all of the accessories required for an experiment (e.g., tip boxes, well plates, etc.), as well as the pipette tip sensors, attached to the bottom with 3D-printed holders and fasteners.
-[Figure 1C and 1D]
+![](Figure 1C.jpg) ![](Figure 1D.jpg)
 
 ## Axes
 The linear actuator of the X-axis is a timing belt/pulley configuration to maximize speed. 8-mm lead screws were used for the Y- and Z-axes for increased stability and accuracy.
@@ -14,12 +14,12 @@ The linear actuator of the X-axis is a timing belt/pulley configuration to maxim
 
 ## Gantry
 Our design utilizes a gantry system to take advantage of higher accuracy and more work space if needed. The Z- and X- axes form the gantry assembly, which rides on a pair of linear rails and lead screws that comprise the Y-axis.
-[Image of the gantry, maybe something like Figure 1B]
+![](Figure 1B.jpg)
 
 ## Pipetting Assembly
 A Haydon Kerk® captive linear stepper motor comprises the pipetting linear actuator. It sits above the micropipette and automates the pressing of the plunger on the micropipette.
-[Figure 1A]
+![](Figure 1A.jpg)
 
 ## Floating Head Assembly
 The pipetting assembly rides on a pair of vertical, spring-loaded linear rods to create the floating head assembly. The spring constants of the springs used determine the micropipette’s tip loading pressure. The entire assembly includes a plate attached to V-wheels, which ride on the linear rails of the gantry.
-[Figure 1B]
+![](Figure 1B.jpg)
