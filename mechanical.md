@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Mechanical"
 ---
 
 # Mechanical Systems
