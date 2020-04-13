@@ -14,7 +14,7 @@ OTTO uses custom firmware to feed G-code into an Arduino Due, which controls the
 The necessary components of our design, including materials and set-up instructions, are all separated and detailed in the <a href="mechanical.md">Mechanical</a>, <a href="electrical.md">Electrical</a>, and <a href="software.md">Software</a> descriptions. All files are linked in each section, and can also be found in the GitHub repository: https://drd-flo.github.io/OTTO/.
 
 ### License
-OTTO is distributed under the [MIT License](https://github.com/pachterlab/poseidon/blob/release/LICENSE)
+OTTO is distributed under the [MIT License](https://github.com/hannahchenx/hannahchenx.github.io/blob/master/LICENSE)
 
 ------------
 # Mechanical Systems
